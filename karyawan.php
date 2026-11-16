@@ -33,7 +33,7 @@ $daftarKaryawan = [
         "nama" => "Ahmed",
         "divisi" => "Finance",
         "gaji" => 4500000
-    ]
+    ],
     // TUGAS 1: Tambahkan minimal 2 data karyawan lagi ke dalam array PHP ini
 ];
 
